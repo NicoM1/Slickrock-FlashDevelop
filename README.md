@@ -5,3 +5,4 @@ Comes in two files, so you can use a different UI theme if you wish.
 
 ###Installation:
 1. For each file repeat: Tools > Select UI Theme
+2. Restart FlashDevelop
